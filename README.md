@@ -1,0 +1,1 @@
+This is a blog site where the admin can upload the blogs and people can read it. Only the admin has the right to write, upload and delete the blog and noone else can do so, make it safe and secuwoth the help of pass. 
